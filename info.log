@@ -1,0 +1,57 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id f0302c07-1a33-4b46-aaab-4913b7dd5e53 created","level":"info"}
+{"message":"Bookmark with id 83cd3781-dc0f-4f0b-80bb-69e3d5d5c21c created","level":"info"}
+{"message":"Bookmark with id 3c8377e6-d19a-47b1-acf7-ef6966345a84 created","level":"info"}
+{"message":"Bookmark with id 0b0bd091-cda2-4142-8c74-3c428450c559 created","level":"info"}
+{"message":"Bookmark with id cb56ec4a-63c2-40c1-b464-23c26a1433b6 created","level":"info"}
+{"message":"Bookmark with id 252e921f-a18b-4480-b1e9-e0d4dce1a415 created","level":"info"}
+{"message":"Bookmark with 252e921f-a18b-4480-b1e9-e0d4dce1a415 not found.","level":"error"}
+{"message":"Bookmark with id 9bdf4ef3-9730-4d73-b63a-bbaacae6381b created","level":"info"}
+{"message":"List with id 9bdf4ef3-9730-4d73-b63a-bbaacae6381b deleted.","level":"info"}
+{"message":"Bookmark with 9bdf4ef3-9730-4d73-b63a-bbaacae6381b not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Bookmark with id 359fdd16-aa95-43d2-bb50-be626ec1ff9b created","level":"info"}
+{"message":"Bookmark with id 7ff75974-7b13-42f7-aeb9-52a9d5068aef created","level":"info"}
+{"message":"Title must be longer than 2 characters","level":"error"}
+{"message":"Bookmark with id 04e3b956-2269-4f04-a52e-c156118adcee created","level":"info"}
+{"message":"Bookmark with id 342bbac5-94d7-440f-b24f-9d363aa8b461 created","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id cde188ef-9913-4e90-babf-343902e7448f created","level":"info"}
+{"message":"Title must be longer than 2 characters","level":"error"}
+{"message":"Title must be longer than 2 characters","level":"error"}
+{"message":"Bookmark with id f81d170f-f5f6-4534-9bea-f2c126fc0ffd created","level":"info"}
+{"message":"Rating must be between 0 and 10","level":"error"}
+{"message":"Bookmark with id 44aa91a3-6d07-4f06-b0bd-6afb819fac73 created","level":"info"}
+{"message":"Bookmark with id f1ca586b-4114-4fa4-af66-4dd1a0384cb6 created","level":"info"}
+{"message":"Rating must be between 0 and 10","level":"error"}
+{"message":"Bookmark with id 994428bd-c154-4712-b279-b8ecb1d2aa90 created","level":"info"}
+{"message":"Rating is required","level":"error"}
+{"message":"Bookmark with id 4602df3f-4dc3-419c-a0eb-e834b35052a4 created","level":"info"}
+{"message":"Rating must be between 0 and 10","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Bookmark with id 9500786d-929c-4ff9-842d-72665c4cff0d created","level":"info"}
+{"message":"Rating is required","level":"error"}
+{"message":"Bookmark with id 426da79c-413e-4981-874a-d0c0102e9375 created","level":"info"}
+{"message":"Rating must be between 0 and 10","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Rating must be between 0 and 10","level":"error"}
+{"message":"Bookmark with id 80e4268d-b8d8-4019-bbc4-cb93839e662b created","level":"info"}
+{"message":"Bookmark with id 301dea52-ed35-4e0f-bdb4-23855216894d created","level":"info"}
+{"message":"Rating is required","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Rating is required","level":"error"}
+{"message":"Bookmark with id 1a0ddbe3-6347-460f-9faf-cc634a2a2567 created","level":"info"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Bookmark with id 7aaa01ac-9518-46d8-8a0d-0ca5f50c6280 created","level":"info"}
+{"message":"Bookmark with id c6dbac3a-3a6f-4743-b988-201c501d1be6 created","level":"info"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Bookmark with id 3fe4f275-1ad0-4ab6-8bc1-665c50499ecb created","level":"info"}
+{"message":"Bookmark with id 7f5146e0-ace3-4f36-a536-63877ea275a6 created","level":"info"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
