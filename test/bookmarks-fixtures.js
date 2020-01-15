@@ -1,5 +1,6 @@
-const bookmarks = [
-    {
+function makeBookmarksArray() {
+    return [
+      {
         id: 1,
         title: 'Thinkful',
         url: 'https://www.thinkful.com',
@@ -20,6 +21,9 @@ const bookmarks = [
         description: 'The only place to find web documentation',
         rating: 5,
       },
-]
-
-module.exports={bookmarks}
+    ]
+  }
+  
+  module.exports = {
+    makeBookmarksArray,
+  }
