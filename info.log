@@ -98,3 +98,39 @@
 {"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
 {"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Bookmark with id 35 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Invalid URL supplied","level":"error"}
+{"message":"Invalid rating supplied","level":"error"}
