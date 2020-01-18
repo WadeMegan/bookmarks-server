@@ -30,7 +30,7 @@ app.use(function validateBearerToken(req, res, next) {
     next()
 })
 
-app.use(bookmarksRouter)
+app.use('/api/bookmarks', bookmarksRouter)
 
 //error handling middleware
 app.use(function errorHandler(error, req, res, next) {
